@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo NLW Setup" src="https://github.com/carolina-nakashima/nlw-setup/blob/main/assets/logo-nlw-setup.svg" width="100%">
+  <img alt="logo NLW Setup" src="https://github.com/carolina-nakashima/nlw-setup/blob/main/assets/logo-nlw-setup.svg" width="30%">
 </p>  
 <h4 align="center">
 Este projeto foi desenvolvido durante a NLW Setup, evento exclusivo e gratuito promovido pela <a href = "https://www.rocketseat.com.br/"><strong> Rocketseat </strong></a> para ensino de tecnologias web  🚀
